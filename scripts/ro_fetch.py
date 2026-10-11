@@ -67,22 +67,24 @@ def _throttle():
         _last_call[0] = time.time()
 
 
-def soap(action, body, timeout=600):
-    env = ('<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body>'
-           f"{body}</s:Body></s:Envelope>")
+def soap(action, body, timeout=600, tries=8):
     hdr = {"SOAPAction": f'"http://tempuri.org/IFreeWebService/{action}"'}
     delay = 5
-    for attempt in range(8):
+    for attempt in range(tries):
         _throttle()
+        env = ('<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body>'
+               f"{body}</s:Body></s:Envelope>")
         try:
             r = session().post(URL, data=env.encode("utf-8"), headers=hdr, timeout=timeout)
             if r.status_code == 200:
                 r.encoding = "utf-8"
                 return r.text
-            if r.status_code == 500 and "token" in r.text.lower():
+            if r.status_code == 500 and "TOKEN INVALID" in r.text.upper():
                 _local.tok = None
                 body = re.sub(r"<tokenKey>.*?</tokenKey>", f"<tokenKey>{token()}</tokenKey>", body)
-            print(f"  HTTP {r.status_code} on {action}, retry {attempt}", file=sys.stderr)
+                continue
+            msg = re.sub(r"<[^>]+>", " ", r.text)[:160].strip()
+            print(f"  HTTP {r.status_code} on {action}, retry {attempt}: {msg}", file=sys.stderr)
         except requests.RequestException as e:
             print(f"  {type(e).__name__} on {action}, retry {attempt}", file=sys.stderr)
         time.sleep(delay)
@@ -111,21 +113,57 @@ def parse(xml):
     return out
 
 
-def search(page, number="", year="", title="", text=""):
-    """One cached search page. Returns list of records (text dropped for non-kept types)."""
-    key = f"{number}|{year}|{title}|{text}|{page}"
+class SearchError(Exception):
+    pass
+
+
+def _cache_path(key):
     h = hashlib.sha1(key.encode()).hexdigest()
-    path = os.path.join(CACHE, h[:2], h + ".json.gz")
-    if os.path.exists(path):
-        with gzip.open(path, "rt", encoding="utf-8") as fh:
-            return json.load(fh)["records"]
+    return os.path.join(CACHE, h[:2], h + ".json.gz")
+
+
+def _raw_search(page, size, number, year, title, text, tries):
     body = ('<Search xmlns="http://tempuri.org/"><SearchModel xmlns:a="%s">'
-            "<a:NumarPagina>%d</a:NumarPagina><a:RezultatePagina>10</a:RezultatePagina>"
+            "<a:NumarPagina>%d</a:NumarPagina><a:RezultatePagina>%d</a:RezultatePagina>"
             "<a:SearchAn>%s</a:SearchAn><a:SearchNumar>%s</a:SearchNumar>"
             "<a:SearchText>%s</a:SearchText><a:SearchTitlu>%s</a:SearchTitlu>"
             "</SearchModel><tokenKey>%s</tokenKey></Search>") % (
-        NS_A, page, escape(str(year)), escape(str(number)), escape(text), escape(title), token())
-    recs = parse(soap("Search", body))
+        NS_A, page, size, escape(str(year)), escape(str(number)), escape(text), escape(title), token())
+    try:
+        return parse(soap("Search", body, tries=tries))
+    except RuntimeError as e:
+        raise SearchError(str(e))
+
+
+def search(page, number="", year="", title="", text=""):
+    """One cached search page of 10. Returns list of records (text dropped for non-kept types).
+
+    Some pages fail permanently with HTTP 500 on the server side (apparently when a page holds
+    a very large document); those are retried as single-record pages (RezultatePagina=1), and
+    single records that still fail are logged to failures.log.
+    """
+    key = f"{number}|{year}|{title}|{text}|{page}"
+    path = _cache_path(key)
+    if os.path.exists(path):
+        with gzip.open(path, "rt", encoding="utf-8") as fh:
+            return json.load(fh)["records"]
+    try:
+        recs = _raw_search(page, 10, number, year, title, text, tries=4)
+    except SearchError:
+        print(f"  page fallback to single records: {key}", file=sys.stderr, flush=True)
+        recs, ids = [], set()
+        for sub in range(max(1, (page - 1) * 10), page * 10 + 3):
+            try:
+                one = _raw_search(sub, 1, number, year, title, text, tries=3)
+            except SearchError:
+                with _lock:
+                    with open(os.path.join(RAW, "failures.log"), "a") as fh:
+                        fh.write(f"{key}|single:{sub}\n")
+                continue
+            for r in one:
+                if r["id"] not in ids:
+                    ids.add(r["id"])
+                    recs.append(r)
     for r in recs:
         if not KEEP_TYPES.match((r.get("TipAct") or "").strip()):
             r.pop("Text", None)
@@ -164,19 +202,32 @@ def type_matches(kind, tip):
 
 
 def enum_kind(kind, workers):
+    """Query numbers 1, 2, 3, ... until `patience` consecutive numbers give no act of the kind."""
     title, patience = KINDS[kind]
-    n, misses, batch = 1, 0, max(workers * 2, 4)
     stats = {}
     with ThreadPoolExecutor(workers) as ex:
-        while misses < patience:
-            nums = list(range(n, n + batch))
-            results = list(ex.map(lambda k: (k, search_all(number=str(k), title=title)), nums))
-            for k, recs in results:
-                hits = sum(1 for r in recs if type_matches(kind, r.get("TipAct")))
-                stats[k] = hits
-                misses = 0 if hits else misses + 1
-            n += batch
-            print(f"[{kind}] up to nr {n - 1}: last hits {[stats[k] for k in nums]}", flush=True)
+        futs = {}
+        nxt, done_upto, misses = 1, 0, 0
+        while True:
+            while misses < patience and len(futs) < workers * 2:
+                futs[nxt] = ex.submit(search_all, number=str(nxt), title=title)
+                nxt += 1
+            if not futs:
+                break
+            k = done_upto + 1
+            recs = futs.pop(k).result()
+            done_upto = k
+            hits = sum(1 for r in recs if type_matches(kind, r.get("TipAct")))
+            stats[k] = hits
+            misses = 0 if hits else misses + 1
+            if k % 10 == 0:
+                print(f"[{kind}] nr {k}: hits {[stats[i] for i in range(k - 9, k + 1)]}", flush=True)
+            if misses >= patience:
+                for f in futs.values():
+                    f.result()
+                futs.clear()
+                break
+    print(f"[{kind}] finished at nr {done_upto}", flush=True)
     return stats
 
 
@@ -190,7 +241,7 @@ EXTRA_TITLES = [
 
 def extras():
     for t in EXTRA_TITLES:
-        recs = search_all(title=t, max_pages=40)
+        recs = search_all(title=t, max_pages=4)
         print(f"[extras] {t}: {len(recs)} records", flush=True)
 
 
@@ -198,7 +249,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["enum", "query", "extras"])
     ap.add_argument("--kinds", default="lege,ordonanta,decret-lege")
-    ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--title", default="")
     ap.add_argument("--number", default="")
     ap.add_argument("--year", default="")

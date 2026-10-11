@@ -38,7 +38,6 @@ CODES = {
     "codul-aerian": ("lege", 21, 2020, "Codul aerian", r"CODUL AERIAN"),
     "codul-insolventei": ("lege", 85, 2014, "Codul insolvenței (Legea privind procedurile de prevenire a insolvenței și de insolvență)", r"CODUL INSOLVENȚEI"),
     "codul-consumului": ("lege", 296, 2004, "Codul consumului", r"CODUL CONSUMULUI"),
-    "codul-educatiei": ("lege", 198, 2023, "Legea învățământului preuniversitar", None),
 }
 
 KIND_INFO = {
