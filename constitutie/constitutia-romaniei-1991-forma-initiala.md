@@ -1,0 +1,1306 @@
+---
+title: "Constituția României (1991) — forma inițială"
+identifier: "Constituția din 21 noiembrie 1991"
+portal_id: 1413
+type: constitution
+jurisdiction: ro
+language: ro
+date: 1991-11-21
+published: 1991-11-21
+in_force_from: 1991-12-14
+version: original
+status: unknown
+source: "https://legislatie.just.ro/Public/DetaliiDocument/1413"
+source_api: "http://legislatie.just.ro/apiws/FreeWebService.svc"
+retrieved: 2026-10-12
+---
+
+# CONSTITUȚIA din 21 noiembrie 1991
+
+**Emitent:** ADUNAREA CONSTITUANTĂ
+
+**Publicat în:** MONITORUL OFICIAL nr. 233 din 21 noiembrie 1991
+
+ADUNAREA CONSTITUANTĂ ADOPTĂ CONSTITUȚIA ROMÂNIEI
+
+## Titlul 1 — Principii generale
+
+##### Articolul 1 — Statul român
+
+(1) România este stat național, suveran și independent, unitar și indivizibil.
+
+(2) Forma de guvernămînt a statului este republica.
+
+(3) România este stat de drept, democratic și social, în care demnitatea omului, drepturile și libertățile cetățenilor, libera dezvoltare a personalității umane, dreptatea și pluralismul politic reprezintă valori supreme și sînt garantate.
+
+##### Articolul 2 — Suveranitatea
+
+(1) Suveranitatea națională aparține poporului român, care o exercită prin organele sale reprezentative și prin referendum.
+
+(2) Nici un grup și nici o persoană nu pot exercita suveranitatea în nume propriu.
+
+##### Articolul 3 — Teritoriul
+
+(1) Teritoriul României este inalienabil.
+
+(2) Frontierele țării sînt consfințite prin lege organică, cu respectarea principiilor și a celorlalte norme general admise ale dreptului internațional.
+
+(3) Teritoriul este organizat, sub aspect administrativ, în comune, orașe și județe. În condițiile legii, unele orașe sînt declarate municipii.
+
+(4) Pe teritoriul statului român nu pot fi strămutate sau colonizate populații străine.
+
+##### Articolul 4 — Unitatea poporului și egalitatea între cetățeni
+
+(1) Statul are ca fundament unitatea poporului român.
+
+(2) România este patria comună și indivizibilă a tuturor cetățenilor săi, fără deosebire de rasă, de naționalitate, de origine etnică, de limbă, de religie, de sex, de opinie, de apartenența politică, de avere sau de origine socială.
+
+##### Articolul 5 — Cetățenia
+
+(1) Cetățenia română se dobîndește, se păstrează sau se pierde în condițiile prevăzute de legea organică.
+
+(2) Cetățenia română nu poate fi retrasă aceluia care a dobîndit-o prin naștere.
+
+##### Articolul 6 — Dreptul la identitate
+
+(1) Statul recunoaște și garantează persoanelor aparținînd minorităților naționale dreptul la păstrarea, la dezvoltarea și la exprimarea identității lor etnice, culturale, lingvistice și religioase.
+
+(2) Măsurile de protecție luate de stat pentru păstrarea, dezvoltarea și exprimarea identității persoanelor aparținînd minorităților naționale trebuie să fie conforme cu principiile de egalitate și de nediscriminare în raport cu ceilalți cetățeni români.
+
+##### Articolul 7 — Românii din străinătate
+
+Statul sprijină întărirea legăturilor cu românii din afara frontierelor țării și acționează pentru păstrarea, dezvoltarea și exprimarea identității lor etnice, culturale, lingvistice și religioase, cu respectarea legislației statului ai cărui cetățeni sînt.
+
+##### Articolul 8 — Pluralismul și partidele politice
+
+(1) Pluralismul în societatea românească este o condiție și o garanție a democrației constituționale.
+
+(2) Partidele politice se constituie și își desfășoară activitatea în condițiile legii. Ele contribuie la definirea și la exprimarea voinței politice a cetățenilor, respectînd suveranitatea națională, integritatea teritorială, ordinea de drept și principiile democrației.
+
+##### Articolul 9 — Sindicatele
+
+Sindicatele se constituie și își desfășoară activitatea potrivit cu statutele lor, în condițiile legii. Ele contribuie la apărarea drepturilor și la promovarea intereselor profesionale, economice și sociale ale salariaților.
+
+##### Articolul 10 — Relații internaționale
+
+România întreține și dezvoltă relații pașnice cu toate statele și, în acest cadru, relații de bună vecinătate, întemeiate pe principiile și pe celelalte norme general admise ale dreptului internațional.
+
+##### Articolul 11 — Dreptul internațional și dreptul intern
+
+(1) Statul român se obligă să îndeplinească întocmai și cu bună-credință obligațiile ce-i revin din tratatele la care este parte.
+
+(2) Tratatele ratificate de Parlament, potrivit legii, fac parte din dreptul intern.
+
+##### Articolul 12 — Simboluri naționale
+
+(1) Drapelul României este tricolor; culorile sînt așezate vertical, în ordinea următoare începînd de la lance: albastru, galben, roșu.
+
+(2) Ziua națională a României este 1 Decembrie.
+
+(3) Imnul național al României este "Deșteaptă-te române".
+
+(4) Stema țării și sigiliul statului sînt stabilite prin legi organice.
+
+##### Articolul 13 — Limba oficială
+
+În România, limba oficială este limba română.
+
+##### Articolul 14 — Capitala
+
+Capitala României este municipiul București.
+
+## Titlul 2 — Drepturile, libertățile și îndatoririle fundamentale
+
+### Capitolul 1 — Dispoziții comune
+
+##### Articolul 15 — Universalitatea
+
+(1) Cetățenii beneficiază de drepturile și de libertățile consacrate prin Constituție și prin alte legi și au obligațiile prevăzute de acestea.
+
+(2) Legea dispune numai pentru viitor, cu excepția legii penale mai favorabile.
+
+##### Articolul 16 — Egalitatea în drepturi
+
+(1) Cetățenii sînt egali în fața legii și a autorităților publice, fără privilegii și fără discriminări.
+
+(2) Nimeni nu este mai presus de lege.
+
+(3) Funcțiile și demnitățile publice, civile sau militare, pot fi ocupate de persoanele care au numai cetățenia română și domiciliul în țară.
+
+##### Articolul 17 — Cetățenii români în străinătate
+
+Cetățenii români se bucură în străinătate de protecția statului român și trebuie să-și îndeplinească obligațiile, cu excepția acelor ce nu sînt compatibile cu absența lor din țară.
+
+##### Articolul 18 — Cetățenii străini și apatrizii
+
+(1) Cetățenii străini și apatrizii care locuiesc în România se bucură de protecția generală a persoanelor și a averilor, garantată de Constituție și de alte legi.
+
+(2) Dreptul de azil se acordă și se retrage în condițiile legii, cu respectarea tratatelor și a convențiilor internaționale la care România este parte.
+
+##### Articolul 19 — Extrădarea și expulzarea
+
+(1) Cetățeanul român nu poate fi extrădat sau expulzat din România.
+
+(2) Cetățenii străini și apatrizii pot fi extrădați numai în baza unei convenții internaționale sau în condiții de reciprocitate.
+
+(3) Expulzarea sau extrădarea se hotărăște de justiție.
+
+##### Articolul 20 — Tratatele internaționale privind drepturile omului
+
+(1) Dispozițiile constituționale privind drepturile și libertățile cetățenilor vor fi interpretate și aplicate în concordanță cu Declarația Universală a Drepturilor Omului, cu pactele și cu celelalte tratate la care România este parte.
+
+(2) Dacă există neconcordanțe între pactele și tratatele privitoare la drepturile fundamentale ale omului, la care România este parte, și legile interne, au prioritate reglementările internaționale.
+
+##### Articolul 21 — Accesul liber la justiție
+
+(1) Orice persoană se poate adresa justiției pentru apărarea drepturilor, a libertăților și a intereselor sale legitime.
+
+(2) Nici o lege nu poate îngrădi exercitarea acestui drept.
+
+### Capitolul 2 — Drepturile și libertățile fundamentale
+
+##### Articolul 22 — Dreptul la viață și la integritatea fizică și psihică
+
+(1) Dreptul la viață, precum și dreptul la integritate fizică și psihică ale persoanei sînt garantate.
+
+(2) Nimeni nu poate fi supus torturii și nici unui fel de pedeapsă sau de tratament inuman ori degradant.
+
+(3) Pedeapsa cu moartea este interzisă.
+
+##### Articolul 23 — Libertatea individuală
+
+(1) Libertatea individuală și siguranța persoanei sînt inviolabile.
+
+(2) Percheziționarea, reținerea sau arestarea unei persoane sînt permise numai în cazurile și cu procedura prevăzute de lege.
+
+(3) Reținerea nu poate depăși 24 de ore.
+
+(4) Arestarea se face în temeiul unui mandat emis de magistrat, pentru o durată de cel mult 30 de zile. Asupra legalității mandatului, arestatul se poate plînge judecătorului, care este obligat să se pronunțe prin hotărîre motivată. Prelungirea arestării se aprobă numai de instanța de judecată.
+
+(5) Celui reținut sau arestat i se aduc de îndată la cunoștință, în limba pe care o înțelege, motivele reținerii sau ale arestării, iar învinuirea, în cel mai scurt termen; învinuirea se aduce la cunoștință numai în prezența unui avocat, ales sau numit din oficiu.
+
+(6) Eliberarea celui reținut sau arestat este obligatorie, dacă motivele acestor măsuri au dispărut.
+
+(7) Persoana arestată preventiv are dreptul să ceară punerea sa în libertate provizorie, sub control judiciar sau pe cauțiune.
+
+(8) Pînă la rămînerea definitivă a hotărîrii judecătorești de condamnare, persoana este considerată nevinovată.
+
+(9) Nici o pedeapsă nu poate fi stabilită sau aplicată decît în condițiile și în temeiul legii.
+
+##### Articolul 24 — Dreptul la apărare
+
+(1) Dreptul la apărare este garantat.
+
+(2) În tot cursul procesului, părțile au dreptul să fie asistate de un avocat, ales sau numit din oficiu.
+
+##### Articolul 25 — Libera circulație
+
+(1) Dreptul la liberă circulație, în țară și în străinătate, este garantat. Legea stabilește condițiile exercitării acestui drept.
+
+(2) Fiecărui cetățean îi este asigurat dreptul de a-și stabili domiciliul sau reședința în orice localitate din țară, de a emigra, precum și de a reveni în țară.
+
+##### Articolul 26 — Viața intimă, familială și privată
+
+(1) Autoritățile publice respecta și ocrotesc viața intimă, familială și privată.
+
+(2) Persoana fizică are dreptul să dispună de ea însăși, dacă nu încalcă drepturile și libertățile altora, ordinea publică sau bunele moravuri.
+
+##### Articolul 27 — Inviolabilitatea domiciliului
+
+(1) Domiciliul și reședința sînt inviolabile. Nimeni nu poate pătrunde sau rămîne în domiciliul ori în reședința unei persoane fără învoirea acesteia.
+
+(2) De la prevederile alineatului (1) se poate deroga prin lege în următoarele situații:
+
+a) pentru executarea unui mandat de arestare sau a unei hotărîri judecătorești;
+
+b) pentru înlăturarea unei primejdii privind viața, integritatea fizică sau bunurile unei persoane;
+
+c) pentru apărarea siguranței naționale sau a ordinii publice;
+
+d) pentru prevenirea răspîndirii unei epidemii.
+
+(3) Perchezițiile pot fi ordonate exclusiv de magistrat și pot fi efectuate numai în formele prevăzute de lege.
+
+(4) Perchezițiile în timpul nopții sînt interzise, afară de cazul delictului flagrant.
+
+##### Articolul 28 — Secretul corespondenței
+
+Secretul scrisorilor, al telegramelor, al altor trimiteri poștale, al convorbirilor telefonice și al celorlalte mijloace legale de comunicare este inviolabil.
+
+##### Articolul 29 — Libertatea conștiinței
+
+(1) Libertatea gîndirii și a opiniilor, precum și libertatea credințelor religioase nu pot fi îngrădite sub nici o formă. Nimeni nu poate fi constrîns să adopte o opinie ori să adere la o credință religioasă, contrare convingerilor sale.
+
+(2) Libertatea conștiinței este garantată; ea trebuie să se manifeste în spirit de toleranță și de respect reciproc.
+
+(3) Cultele religioase sînt libere și se organizează potrivit statutelor proprii, în condițiile legii.
+
+(4) În relațiile dintre culte sînt interzise orice forme, mijloace, acte sau acțiuni de învrăjbire religioasă.
+
+(5) Cultele religioase sînt autonome față de stat și se bucură de sprijinul acestuia, inclusiv prin înlesnirea asistenței religioase în armată, în spitale, în penitenciare, în azil și în orfelinate.
+
+(6) Părinții sau tutorii au dreptul de a asigura, potrivit propriilor convingeri, educația copiilor minori a căror răspundere le revine.
+
+##### Articolul 30 — Libertatea de exprimare
+
+(1) Libertatea de exprimare a gîndurilor, a opiniilor sau a credințelor și libertatea creațiilor de orice fel, prin viu grai, prin scris, prin imagini, prin sunete sau prin alte mijloace de comunicare în public, sînt inviolabile.
+
+(2) Cenzura de orice fel este interzisă.
+
+(3) Libertatea presei implica și libertatea de a înființa publicații.
+
+(4) Nici o publicație nu poate fi suprimată.
+
+(5) Legea poate impune mijloacelor de comunicare în masa obligația de a face publică sursa finanțării.
+
+(6) Libertatea de exprimare nu poate prejudicia demnitatea, onoarea, viața particulară a persoanei și nici dreptul la propria imagine.
+
+(7) Sînt interzise de lege defăimarea tarii și a națiunii, îndemnul la război de agresiune, la ura naționala, rasială, de clasa sau religioasă, incitarea la discriminare, la separatism teritorial sau la violenta publică, precum și manifestările obscene, contrare bunelor moravuri.
+
+(8) Răspunderea civilă pentru informația sau pentru creația adusă la cunoștința publică revine editorului sau realizatorului, autorului, organizatorului manifestării artistice, proprietarului mijlocului de multiplicare, al postului de radio sau de televiziune, în condițiile legii. Delictele de presa se stabilesc prin lege.
+
+##### Articolul 31 — Dreptul la informație
+
+(1) Dreptul persoanei de a avea acces la orice informație de interes public nu poate fi îngrădit.
+
+(2) Autoritățile publice, potrivit competențelor ce le revin, sînt obligate să asigure informarea corectă a cetățenilor asupra treburilor publice și asupra problemelor de interes personal.
+
+(3) Dreptul la informație nu trebuie să prejudicieze măsurile de protecție a tinerilor sau siguranța națională.
+
+(4) Mijloacele de informare în masă, publice și private, sînt obligate să asigure informarea corectă a opiniei publice.
+
+(5) Serviciile publice de radio și de televiziune sînt autonome. Ele trebuie să garanteze grupurilor sociale și politice importante exercitarea dreptului la antenă. Organizarea acestor servicii și controlul parlamentar asupra activității lor se reglementează prin lege organică.
+
+##### Articolul 32 — Dreptul la învățătură
+
+(1) Dreptul la învățătură este asigurat prin învățămîntul general obligatoriu, prin învățămîntul liceal și prin cel profesional, prin învățămîntul superior, precum și prin alte forme de instrucție și de perfecționare.
+
+(2) Învățămîntul de toate gradele se desfășoară în limba română. În condițiile legii, învățămîntul se poate desfășura și într-o limbă de circulație internațională.
+
+(3) Dreptul persoanelor aparținînd minorităților naționale de a învăța limba lor maternă și dreptul de a putea fi instruite în această limbă sînt garantate; modalitățile de exercitare a acestor drepturi se stabilesc prin lege.
+
+(4) Învățămîntul de stat este gratuit, potrivit legii.
+
+(5) Instituțiile de învățămînt, inclusiv cele particulare, se înființează și își desfășoară activitatea în condițiile legii.
+
+(6) Autonomia universală este garantată.
+
+(7) Statul asigură libertatea învățămîntului religios, potrivit cerințelor specifice fiecărui cult. În școlile de stat, învățămîntul religios este organizat și garantat prin lege.
+
+##### Articolul 33 — Dreptul la ocrotirea sănătății
+
+(1) Dreptul la ocrotirea sănătății este garantat.
+
+(2) Statul este obligat să ia măsuri pentru asigurarea igienei și a sănătății publice.
+
+(3) Organizarea asistenței medicale și a sistemului de asigurări sociale pentru boală, accidente, maternitate și recuperare, controlul exercitării profesiilor medicale și a activităților paramedicale, precum și alte măsuri de protecție a sănătății fizice și mentale a persoanei se stabilesc potrivit legii.
+
+##### Articolul 34 — Dreptul de vot
+
+(1) Cetățenii au drept de vot de la vîrsta de 18 ani, împliniți pînă în ziua alegerilor inclusiv.
+
+(2) Nu au drept de vot debilii sau alienații mintal, puși sub interdicție, și nici persoanele condamnate, prin hotărîre judecătorească definitivă, la pierderea drepturilor electorale.
+
+##### Articolul 35 — Dreptul de a fi ales
+
+(1) Au dreptul de a fi aleși cetățenii cu drept de vot care îndeplinesc condițiile prevăzute în articolul 16 alineatul (3) , dacă nu le este interzisă asocierea în partide politice, potrivit articolului 37 alineatul (3) .
+
+(2) Candidații trebuie să fi împlinit, pînă în ziua alegerilor inclusiv, vîrsta de cel puțin 23 de ani, pentru a fi aleși în Camera Deputaților sau în organele locale, și vîrsta de cel puțin 35 de ani, pentru a fi aleși în Senat sau în funcția de Președinte al României.
+
+##### Articolul 36 — Libertatea întrunirilor
+
+Mitingurile, demonstrațiile, procesiunile sau orice alte întruniri sînt libere și se pot organiza și desfășura numai în mod pașnic, fără nici un fel de arme.
+
+##### Articolul 37 — Dreptul de asociere
+
+(1) Cetățenii se pot asocia liber în partide politice, în sindicate și în alte forme de asociere.
+
+(2) Partidele sau organizațiile care, prin scopurile ori prin activitatea lor, militează împotriva pluralismului politic, a principiilor statului de drept ori a suveranității, a integrității sau a independenței României sînt neconstituționale.
+
+(3) Nu pot face parte din partide politice judecătorii Curții Constituționale, avocații poporului, magistrații, membrii activi ai armatei, polițiștii și alte categorii de funcționari publici stabilite prin lege organică.
+
+(4) Asociațiile cu caracter secret sînt interzise.
+
+##### Articolul 38 — Munca și protecția socială a muncii
+
+(1) Dreptul la muncă nu poate fi îngrădit. Alegerea profesiei și alegerea locului de muncă sînt libere.
+
+(2) Salariații au dreptul la protecția socială a muncii. Măsurile de protecție privesc securitatea și igiena muncii, regimul de muncă al femeilor și al tinerilor, instituirea unui salariu minim pe economie, repausul săptămînal, concediul de odihnă plătit, prestarea muncii în condiții grele, precum și alte situații specifice.
+
+(3) Durata normală a zilei de lucru este, în medie, de cel mult 8 ore.
+
+(4) La muncă egala, femeile au salariu egal cu bărbații.
+
+(5) Dreptul la negocieri colective în materie de muncă și caracterul obligatoriu al convențiilor colective sînt garantate.
+
+##### Articolul 39 — Interzicerea muncii forțate
+
+(1) Munca forțată este interzisă.
+
+(2) Nu constituie muncă forțată:
+
+a) serviciul cu caracter militar sau activitățile desfășurate în locul acestuia de cei care, potrivit legii, nu prestează serviciul militar obligatoriu din motive religioase;
+
+b) munca unei persoane condamnate, prestată în condiții normale, în perioada de detenție sau de libertate condiționată;
+
+c) prestațiile impuse în situația creată de calamități ori de alt pericol, precum și cele care fac parte din obligațiile civile normale stabilite de lege. ...
+
+##### Articolul 40 — Dreptul la grevă
+
+(1) Salariații au dreptul la grevă pentru apărarea intereselor profesionale, economice și sociale.
+
+(2) Legea stabilește condițiile și limitele exercitării acestui drept, precum și garanțiile necesare asigurării serviciilor esențiale pentru societate.
+
+##### Articolul 41 — Protecția proprietății private
+
+(1) Dreptul de proprietate, precum și creanțele asupra statului, sînt garantate. Conținutul și limitele acestor drepturi sînt stabilite de lege.
+
+(2) Proprietatea privată este ocrotită în mod egal de lege, indiferent de titular. Cetățenii străini și apatrizii nu pot dobîndi dreptul de proprietate asupra terenurilor.
+
+(3) Nimeni nu poate fi expropriat decît pentru o cauză de utilitate publică, stabilită potrivit legii, cu dreaptă și prealabilă despăgubire.
+
+(4) Pentru lucrări de interes general, autoritatea publică poate folosi subsolul oricărei proprietăți imobiliare, cu obligația de a despăgubi proprietarul pentru daunele aduse solului, plantațiilor sau construcțiilor, precum și pentru alte daune imputabile autorității.
+
+(5) Despăgubirile prevăzute în alineatele (3) și (4) se stabilesc de comun acord cu proprietarul sau, în caz de divergență, prin justiție.
+
+(6) Dreptul de proprietate obligă la respectarea sarcinilor privind protecția mediului și asigurarea bunei vecinătăți, precum și la respectarea celorlalte sarcini care, potrivit legii sau obiceiului, revin proprietarului.
+
+(7) Averea dobîndită licit nu poate fi confiscată. Caracterul licit al dobîndirii se prezumă.
+
+(8) Bunurile destinate, folosite sau rezultate din infracțiuni ori contravenții pot fi confiscate numai în condițiile legii.
+
+##### Articolul 42 — Dreptul la moștenire
+
+Dreptul la moștenire este garantat.
+
+##### Articolul 43 — Nivelul de trai
+
+(1) Statul este obligat să ia măsuri de dezvoltare economică și de protecție socială, de natură să asigure cetățenilor un nivel de trai decent.
+
+(2) Cetățenii au dreptul la pensie, la concediu de maternitate plătit, la asistență medicală în unitățile sanitare de stat, la ajutor de șomaj și la alte forme de asistență socială prevăzute de lege.
+
+##### Articolul 44 — Familia
+
+(1) Familia se întemeiază pe căsătoria liber consimțită între soți, pe egalitatea acestora și pe dreptul și îndatorirea părinților de a asigura creșterea, educația și instruirea copiilor.
+
+(2) Condițiile de încheiere, de desfacere și de nulitate a căsătoriei se stabilesc prin lege. Căsătoria religioasă poate fi celebrată numai după căsătoria civilă.
+
+(3) Copiii din afara căsătoriei sînt egali în fața legii cu cei din căsătorie.
+
+##### Articolul 45 — Protecția copiilor și a tinerilor
+
+(1) Copiii și tinerii se bucură de un regim special de protecție și de asistență în realizarea drepturilor lor.
+
+(2) Statul acordă alocații de stat pentru copii și ajutoare pentru îngrijirea copilului bolnav ori handicapat. Alte forme de protecție socială a copiilor și a tinerilor se stabilesc prin lege.
+
+(3) Exploatarea minorilor, folosirea lor în activități care le-ar dăuna sănătății, moralității sau care le-ar pune în primejdie viața ori dezvoltarea normală sînt interzise.
+
+(4) Minorii sub vîrsta de 15 ani nu pot fi angajați ca salariați.
+
+(5) Autoritățile publice au obligația să contribuie la asigurarea condițiilor pentru participarea liberă a tinerilor la viața politică, socială, economică, culturală și sportivă a țării.
+
+##### Articolul 46 — Protecția persoanelor handicapate
+
+Persoanele handicapate se bucură de protecție specială. Statul asigură realizarea unei politici naționale de prevenire, de tratament, de readaptare, de învățămînt, de instruire și de integrare socială a handicapaților, respectînd drepturile și îndatoririle ce revin părinților și tutorilor.
+
+##### Articolul 47 — Dreptul de petiționare
+
+(1) Cetățenii au dreptul să se adreseze autorităților publice prin petiții formulate numai în numele semnatarilor.
+
+(2) Organizațiile legal constituite au dreptul să adreseze petiții exclusiv în numele colectivelor pe care le reprezintă.
+
+(3) Exercitarea dreptului de petiționare este scutită de taxă.
+
+(4) Autoritățile publice au obligația să răspundă la petiții în termenele și în condițiile stabilite potrivit legii.
+
+##### Articolul 48 — Dreptul persoanei vătămate de o autoritate publică
+
+(1) Persoana vătămată într-un drept al său de o autoritate publică, printr-un act administrativ sau prin nesoluționarea în termenul legal a unei cereri, este îndreptățită să obțină recunoașterea dreptului pretins, anularea actului și repararea pagubei.
+
+(2) Condițiile și limitele exercitării acestui drept se stabilesc prin lege organică.
+
+(3) Statul răspunde patrimonial, potrivit legii, pentru prejudiciile cauzate prin erorile judiciare săvîrșite în procesele penale.
+
+##### Articolul 49 — Restrîngerea exercițiului unor drepturi sau al unor libertăți
+
+(1) Exercițiul unor drepturi sau al unor libertăți poate fi restrîns numai prin lege și numai dacă se impune, după caz, pentru: apărarea siguranței naționale, a ordinii, a sănătății ori a moralei publice, a drepturilor și a libertăților cetățenilor; desfășurarea instrucției penale; prevenirea consecințelor unei calamități naturale ori ale unui sinistru deosebit de grav.
+
+(2) Restrîngerea trebuie să fie proporțională cu situația care a determinat-o și nu poate atinge existența dreptului sau a libertății.
+
+### Capitolul 3 — Îndatoririle fundamentale
+
+##### Articolul 50 — Fidelitatea față de țară
+
+(1) Fidelitatea față de țară este sacră.
+
+(2) Cetățenii cărora le sînt încredințate funcții publice, precum și militarii, răspund de îndeplinirea cu credință a obligațiilor ce le revin și, în acest scop, vor depune jurămîntul cerut de lege.
+
+##### Articolul 51 — Respectarea Constituției și a legilor
+
+Respectarea Constituției, a supremației sale și a legilor este obligatorie.
+
+##### Articolul 52 — Apărarea țării
+
+(1) Cetățenii au dreptul și obligația să apere România.
+
+(2) Serviciul militar este obligatoriu pentru bărbații, cetățeni români, care au împlinit vîrsta de 20 de ani, cu excepția cazurilor prevăzute de lege.
+
+(3) Pentru pregătirea în cadrul serviciului militar activ, cetățenii pot fi încorporați pînă la vîrsta de 35 de ani.
+
+##### Articolul 53 — Contribuții financiare
+
+(1) Cetățenii au obligația să contribuie, prin impozite și prin taxe, la cheltuielile publice.
+
+(2) Sistemul legal de impuneri trebuie să asigure așezarea justă a sarcinilor fiscale.
+
+(3) Orice alte prestații sînt interzise, în afara celor stabilite prin lege, în situații excepționale.
+
+##### Articolul 54 — Exercitarea drepturilor și a libertăților
+
+Cetățenii români, cetățenii străini și apatrizii trebuie să-și exercite drepturile și libertățile constituționale cu bună-credință, fără să încalce drepturile și libertățile celorlalți.
+
+### Capitolul 4 — Avocatul Poporului
+
+##### Articolul 55 — Numirea și rolul
+
+(1) Avocatul Poporului este numit de Senat, pe o durată de 4 ani, pentru apărarea drepturilor și a libertăților cetățenilor. Organizarea și funcționarea instituției Avocatului Poporului se stabilesc prin lege organică.
+
+(2) Avocatul Poporului nu poate îndeplini nici o funcție publică sau privată.
+
+##### Articolul 56 — Exercitarea atribuțiilor
+
+(1) Avocatul Poporului își exercită atribuțiile din oficiu sau la cererea persoanelor lezate în drepturile și în libertățile lor, în limitele stabilite de lege.
+
+(2) Autoritățile publice sînt obligate să asigure Avocatului Poporului sprijinul necesar în exercitarea atribuțiilor sale.
+
+##### Articolul 57 — Raportul în fața Parlamentului
+
+Avocatul Poporului prezintă celor două Camere ale Parlamentului rapoarte, anual sau la cererea acestora. Rapoartele pot conține recomandări privind legislația sau măsuri de altă natură, pentru ocrotirea drepturilor și a libertăților cetățenilor.
+
+## Titlul 3 — Autoritățile publice
+
+### Capitolul 1 — Parlamentul
+
+#### Secţiunea 1 — Organizarea și funcționarea
+
+##### Articolul 58 — Rolul și structura
+
+(1) Parlamentul este organul reprezentativ suprem al poporului român și unica autoritate legiuitoare a țării.
+
+(2) Parlamentul este alcătuit din Camera Deputaților și Senat.
+
+##### Articolul 59 — Alegerea Camerelor
+
+(1) Camera Deputaților și Senatul sînt alese prin vot universal, egal, direct, secret și liber exprimat, potrivit legii electorale.
+
+(2) Organizațiile cetățenilor aparținînd minorităților naționale, care nu întrunesc în alegeri numărul de voturi pentru a fi reprezentate în Parlament, au dreptul la cîte un loc de deputat, în condițiile legii electorale. Cetățenii unei minorități naționale pot fi reprezentați numai de o singură organizație.
+
+(3) Numărul deputaților și al senatorilor se stabilește prin legea electorală, în raport cu populația țării.
+
+##### Articolul 60 — Durata mandatului
+
+(1) Camera Deputaților și Senatul sînt alese pentru un mandat de 4 ani, care poate fi prelungit, prin lege organică, în caz de război sau de catastrofă.
+
+(2) Alegerile pentru Camera Deputaților și pentru Senat se desfășoară în cel mult 3 luni de la expirarea mandatului sau de la dizolvarea Parlamentului.
+
+(3) Parlamentul nou ales se întrunește, la convocarea Președintelui României, în cel mult 20 de zile de la alegeri.
+
+(4) Mandatul Camerelor se prelungește pînă la întrunirea legală a noului Parlament. În această perioadă nu poate fi revizuită Constituția și nu pot fi adoptate, modificate sau abrogate legi organice.
+
+(5) Proiectele de legi sau propunerile legislative înscrise pe ordinea de zi a Parlamentului precedent își continuă procedura în noul Parlament.
+
+##### Articolul 61 — Organizarea internă
+
+(1) Organizarea și funcționarea fiecărei Camere se stabilesc prin regulament propriu. Resursele financiare ale Camerelor sînt prevăzute în bugetele aprobate de acestea.
+
+(2) Fiecare Cameră își alege un birou permanent. Președintele Camerei Deputaților și Președintele Senatului se aleg pe durata mandatului Camerelor. Ceilalți membri ai birourilor permanente sînt aleși la începutul fiecărei sesiuni. Membrii birourilor permanente pot fi revocați înainte de expirarea mandatului.
+
+(3) Deputații și senatorii se pot organiza în grupuri parlamentare, potrivit regulamentului fiecărei Camere.
+
+(4) Fiecare Cameră își constituie comisii permanente și poate institui comisii de anchetă sau alte comisii speciale. Camerele își pot constitui comisii comune.
+
+(5) Birourile permanente și comisiile parlamentare se alcătuiesc potrivit configurației politice a fiecărei Camere.
+
+##### Articolul 62 — Ședințe comune
+
+(1) Camera Deputaților și Senatul lucrează în ședințe separate și în ședințe comune. În ședințele comune, lucrările se desfășoară potrivit unui regulament adoptat cu votul majorității deputaților și senatorilor.
+
+(2) Camerele se întrunesc în ședință comună pentru:
+
+a) primirea mesajului Președintelui României;
+
+b) aprobarea bugetului de stat și a bugetului asigurărilor sociale de stat;
+
+c) declararea mobilizării generale sau parțiale;
+
+d) declararea stării de război;
+
+e) suspendarea sau încetarea ostilităților militare;
+
+f) examinarea rapoartelor Consiliului Suprem de Apărare a Țării și ale Curții de Conturi;
+
+g) numirea, la propunerea Președintelui României, a directorului Serviciului Român de Informații și exercitarea controlului asupra activității acestui serviciu;
+
+h) îndeplinirea altor atribuții care, potrivit Constituției sau regulamentului, se exercită în ședință comună. ...
+
+##### Articolul 63 — Sesiuni
+
+(1) Camera Deputaților și Senatul se întrunesc în două sesiuni ordinare pe an. Prima sesiune începe în luna februarie și nu poate depăși sfîrșitul lunii iunie. A doua sesiune începe în luna septembrie și nu poate depăși sfîrșitul lunii decembrie.
+
+(2) Camera Deputaților și Senatul se întrunesc și în sesiuni extraordinare, la cererea Președintelui României, a biroului permanent al fiecărei Camere ori a cel puțin o treime din numărul deputaților sau al senatorilor.
+
+(3) Convocarea Camerelor se face de președinții acestora.
+
+##### Articolul 64 — Actele juridice și cvorumul legal
+
+Camera Deputaților și Senatul adoptă legi, hotărîri și moțiuni, în prezența majorității membrilor.
+
+##### Articolul 65 — Caracterul public al ședințelor
+
+(1) Ședințele celor două Camere sînt publice.
+
+(2) Camerele pot hotărî ca anumite ședințe să fie secrete.
+
+#### Secţiunea a 2-a — Statutul deputaților și al senatorilor
+
+##### Articolul 66 — Mandatul reprezentativ
+
+(1) În exercitarea mandatului, deputații și senatorii sînt în serviciul poporului.
+
+(2) Orice mandat imperativ este nul.
+
+##### Articolul 67 — Mandatul deputaților și al senatorilor
+
+(1) Deputații și senatorii intră în exercițiul mandatului la data întrunirii legale a Camerei din care fac parte, sub condiția validării.
+
+(2) Calitatea de deputat sau de senator încetează la data întrunirii legale a Camerelor nou alese sau în caz de demisie, de pierdere a drepturilor electorale, de incompatibilitate ori de deces.
+
+##### Articolul 68 — Incompatibilități
+
+(1) Nimeni nu poate fi, în același timp, deputat și senator.
+
+(2) Calitatea de deputat sau de senator este incompatibilă cu exercitarea oricărei funcții publice de autoritate, cu excepția celei de membru al Guvernului.
+
+(3) Alte incompatibilități se stabilesc prin lege organică.
+
+##### Articolul 69 — Imunitatea parlamentară
+
+(1) Deputatul sau senatorul nu poate fi reținut, arestat, percheziționat sau trimis în judecată, penală ori contravențională, fără încuviințarea Camerei din care face parte, după ascultarea sa. Competența de judecată aparține Curții Supreme de Justiție.
+
+(2) În caz de infracțiune flagrantă, deputatul sau senatorul poate fi reținut și supus percheziției. Ministrul justiției va informa neîntîrziat pe președintele Camerei asupra reținerii și a percheziției. În cazul în care Camera sesizată constată că nu există temei pentru reținere, va dispune imediat revocarea acestei măsuri.
+
+##### Articolul 70 — Independența opiniilor
+
+Deputații și senatorii nu pot fi trași la răspundere juridică pentru voturile sau pentru opiniile politice exprimate în exercitarea mandatului.
+
+##### Articolul 71 — Indemnizația și celelalte drepturi
+
+Deputații și senatorii primesc o indemnizație lunară. Cuantumul indemnizației și celelalte drepturi se stabilesc prin lege.
+
+#### Secţiunea a 3-a — Legiferarea
+
+##### Articolul 72 — Categorii de legi
+
+(1) Parlamentul adoptă legi constituționale, legi organice și legi ordinare.
+
+(2) Legile constituționale sînt cele de revizuire a Constituției.
+
+(3) Prin lege organică se reglementează:
+
+a) sistemul electoral;
+
+b) organizarea și funcționarea partidelor politice;
+
+c) organizarea și desfășurarea referendumului;
+
+d) organizarea Guvernului și a Consiliului Suprem de Apărare a Țării;
+
+e) regimul stării de asediu și al celei de urgență;
+
+f) infracțiunile, pedepsele și regimul executării acestora;
+
+g) acordarea amnistiei sau a grațierii colective;
+
+h) organizarea și funcționarea Consiliului Superior al Magistraturii, a instanțelor judecătorești, a Ministerului Public și a Curții de Conturi;
+
+i) statutul funcționarilor publici;
+
+j) contenciosul administrativ;
+
+k) regimul juridic general al proprietății și al moștenirii;
+
+l) regimul general privind raporturile de muncă, sindicatele și protecția socială;
+
+m) organizarea generală a învățămîntului;
+
+n) regimul general al cultelor;
+
+o) organizarea administrației locale, a teritoriului, precum și regimul general privind autonomia locală;
+
+p) modul de stabilire a zonei economice exclusive;
+
+r) celelalte domenii pentru care, în Constituție, se prevede adoptarea de legi organice. ...
+
+##### Articolul 73 — Inițiativa legislativă
+
+(1) Inițiativa legislativă aparține Guvernului, deputaților, senatorilor, precum și unui număr de cel puțin 250.000 de cetățeni cu drept de vot. Cetățenii care își manifestă dreptul la inițiativă legislativă trebuie să provină din cel puțin un sfert din județele țării, iar în fiecare din aceste județe sau în municipiul București trebuie să fie înregistrate cel puțin 10.000 de semnături în sprijinul acestei inițiative.
+
+(2) Nu pot face obiectul inițiativei legislative a cetățenilor problemele fiscale, cele cu caracter internațional, amnistia și grațierea.
+
+(3) Guvernul își exercită inițiativa legislativă prin transmiterea proiectului de lege către una dintre Camere.
+
+(4) Deputații, senatorii și cetățenii care exercită dreptul la inițiativa legislativă pot prezenta propuneri legislative numai în forma cerută pentru proiectele de legi.
+
+(5) Propunerile legislative se supun întîi adoptării în Camera în care au fost prezentate.
+
+##### Articolul 74 — Adoptarea legilor și a hotărîrilor
+
+(1) Legile organice și hotărîrile privind regulamentele Camerelor se adoptă cu votul majorității membrilor fiecărei Camere.
+
+(2) Legile ordinare și hotărîrile se adoptă cu votul majorității membrilor prezenți din fiecare Cameră.
+
+(3) La cererea Guvernului sau din proprie inițiativă, Parlamentul poate adopta proiecte de legi sau propuneri legislative cu procedură de urgență, stabilită potrivit regulamentului fiecărei Camere.
+
+##### Articolul 75 — Trimiterea proiectelor de legi și a propunerilor legislative de la o Cameră la cealaltă
+
+Proiectele de legi sau propunerile legislative adoptate de una din Camere se trimit celeilalte Camere a Parlamentului. Dacă aceasta din urmă respinge proiectul de lege sau propunerea legislativă, ele se trimit, pentru o nouă dezbatere, Camerei care le-a adoptat. O nouă respingere este definitivă.
+
+##### Articolul 76 — Mediere
+
+(1) Dacă una din Camere adoptă un proiect de lege sau o propunere legislativă într-o redactare diferită de cea aprobată de cealaltă Cameră, președinții Camerelor vor iniția, prin intermediul unei comisii paritare, procedura de mediere.
+
+(2) În cazul în care comisia nu ajunge la un acord sau dacă una din Camere nu aprobă raportul comisiei de mediere, textele aflate în divergență se supun dezbaterii Camerei Deputaților și Senatului, în ședință comună, care vor adopta textul definitiv cu votul majorității prevăzute la articolul 74 alineatele (1) sau (2) .
+
+##### Articolul 77 — Promulgarea legii
+
+(1) Legea se trimite, spre promulgare, Președintelui României. Promulgarea legii se face în termen de cel mult 20 de zile de la primire.
+
+(2) Înainte de promulgare, Președintele poate cere Parlamentului, o singură dată, reexaminarea legii.
+
+(3) Dacă Președintele a cerut reexaminarea legii ori dacă s-a cerut verificarea constituționalității ei, promulgarea legii se face în cel mult 10 zile de la primirea legii adoptate după reexaminare sau de la primirea deciziei Curții Constituționale, prin care i s-a confirmat constituționalitatea.
+
+##### Articolul 78 — Intrarea în vigoare a legii
+
+Legea se publică în Monitorul Oficial al României și intră în vigoare la data publicării sau la data prevăzută în textul ei.
+
+##### Articolul 79 — Consiliul Legislativ
+
+(1) Consiliul Legislativ este organ consultativ de specialitate al Parlamentului, care avizează proiectele de acte normative în vederea sistematizării, unificării și coordonării întregii legislații. El ține evidența oficială a legislației României.
+
+(2) Înființarea, organizarea și funcționarea Consiliului Legislativ se stabilesc prin lege organică.
+
+### Capitolul 2 — Președintele României
+
+##### Articolul 80 — Rolul Președintelui
+
+(1) Președintele României reprezintă statul român și este garantul independenței naționale, al unității și al integrității teritoriale a țării.
+
+(2) Președintele României veghează la respectarea Constituției și la buna funcționare a autorităților publice. În acest scop, Președintele exercită funcția de mediere între puterile statului, precum și între stat și societate.
+
+##### Articolul 81 — Alegerea Președintelui
+
+(1) Președintele României este ales prin vot universal, egal, direct, secret și liber exprimat.
+
+(2) Este declarat ales candidatul care a întrunit, în primul tur de scrutin, majoritatea de voturi ale alegătorilor înscriși în listele electorale.
+
+(3) În cazul în care nici unul dintre candidați nu a întrunit aceasta majoritate, se organizează al doilea tur de scrutin, între primii doi candidați stabiliți în ordinea numărului de voturi obținute în primul tur. Este declarat ales candidatul care a obținut cel mai mare număr de voturi.
+
+(4) Nici o persoană nu poate îndeplini funcția de Președinte al României decît pentru cel mult două mandate. Acestea pot fi și succesive.
+
+##### Articolul 82 — Validarea mandatului și depunerea jurămîntului
+
+(1) Rezultatul alegerilor pentru funcția de Președinte al României este validat de Curtea Constituțională.
+
+(2) Candidatul a cărui alegere a fost validată depune în fața Camerei Deputaților și a Senatului, în ședință comună, următorul jurămînt: "Jur să-mi dăruiesc toată puterea și priceperea pentru propășirea spirituală și materială a poporului român, să respect Constituția și legile țării, să apăr democrația, drepturile și libertățile fundamentale ale cetățenilor, suveranitatea, independența, unitatea și integritatea teritorială a României. Așa să-mi ajute Dumnezeu!".
+
+##### Articolul 83 — Durata mandatului
+
+(1) Mandatul Președintelui României este de 4 ani și se exercită de la data depunerii jurămîntului.
+
+(2) Președintele României își exercită mandatul pînă la depunerea jurămîntului de Președintele nou ales.
+
+(3) Mandatul Președintelui României poate fi prelungit, prin lege organică, în caz de război sau de catastrofă.
+
+##### Articolul 84 — Incompatibilități și imunități
+
+(1) În timpul mandatului, Președintele României nu poate fi membru al unui partid și nu poate îndeplini nici o altă funcție publică sau privată.
+
+(2) Președintele României se bucură de imunitate. Prevederile articolului 70 se aplică în mod corespunzător.
+
+(3) Camera Deputaților și Senatul, în ședință comună, pot hotărî punerea sub acuzare a Președintelui României pentru înaltă trădare, cu votul a cel puțin două treimi din numărul deputaților și senatorilor. Competența de judecată aparține Curții Supreme de Justiție, în condițiile legii. Președintele este demis de drept de la data rămînerii definitive a hotărîrii de condamnare.
+
+##### Articolul 85 — Numirea Guvernului
+
+(1) Președintele României desemnează un candidat pentru funcția de prim-ministru și numește Guvernul pe baza votului de încredere acordat de Parlament.
+
+(2) În caz de remaniere guvernamentală sau de vacanță a postului, Președintele revocă și numește, la propunerea primului-ministru, pe unii membri ai Guvernului.
+
+##### Articolul 86 — Consultarea Guvernului
+
+Președintele României poate consulta Guvernul cu privire la probleme urgente și de importanța deosebită.
+
+##### Articolul 87 — Participarea la ședințele Guvernului
+
+(1) Președintele României poate lua parte la ședințele Guvernului în care se dezbat probleme de interes național privind politica externă, apărarea țării, asigurarea ordinii publice și, la cererea primului-ministru, în alte situații.
+
+(2) Președintele României prezidează ședințele Guvernului la care participa.
+
+##### Articolul 88 — Mesaje
+
+Președintele României adresează Parlamentului mesaje cu privire la principalele probleme politice ale națiunii.
+
+##### Articolul 89 — Dizolvarea Parlamentului
+
+(1) După consultarea președinților celor două Camere și a liderilor grupurilor parlamentare, Președintele României poate să dizolve Parlamentul, dacă acesta nu a acordat votul de încredere pentru formarea Guvernului în termen de 60 de zile de la prima solicitare și numai după respingerea a cel puțin două solicitări de investitură.
+
+(2) În cursul unui an, Parlamentul poate fi dizolvat o singură dată.
+
+(3) Parlamentul nu poate fi dizolvat în ultimele 6 luni ale mandatului Președintelui României și nici în timpul stării de asediu sau al stării de urgență.
+
+##### Articolul 90 — Referendumul
+
+Președintele României, după consultarea Parlamentului, poate cere poporului să-și exprime, prin referendum, voința cu privire la probleme de interes național.
+
+##### Articolul 91 — Atribuții în domeniul politicii externe
+
+(1) Președintele încheie tratate internaționale în numele României, negociate de Guvern, și le supune spre ratificare Parlamentului, în termen de 60 de zile.
+
+(2) Președintele, la propunerea Guvernului, acreditează și recheamă reprezentanții diplomatici ai României și aprobă înființarea, desființarea sau schimbarea rangului misiunilor diplomatice.
+
+(3) Reprezentanții diplomatici ai altor state sînt acreditați pe lîngă Președintele României.
+
+##### Articolul 92 — Atribuții în domeniul apărării
+
+(1) Președintele României este comandantul forțelor armate și îndeplinește funcția de președinte al Consiliului Suprem de Apărare a Țării.
+
+(2) El poate declara, cu aprobarea prealabilă a Parlamentului, mobilizarea parțială sau generală a forțelor armate. Numai în cazuri excepționale, hotărîrea Președintelui se supune ulterior aprobării Parlamentului, în cel mult 5 zile de la adoptare.
+
+(3) În caz de agresiune armată îndreptată împotriva țării, Președintele României ia măsuri pentru respingerea agresiunii și le aduce neîntîrziat la cunoștința Parlamentului, printr-un mesaj. Dacă Parlamentul nu se află în sesiune, el se convoacă de drept în 24 de ore de la declanșarea agresiunii.
+
+##### Articolul 93 — Măsuri excepționale
+
+(1) Președintele României instituie, potrivit legii, starea de asediu sau starea de urgență, în întreaga țară ori în unele localități, și solicită Parlamentului încuviințarea măsurii adoptate, în cel mult 5 zile de la luarea acesteia.
+
+(2) Dacă Parlamentul nu se află în sesiune, el se convoacă de drept în cel mult 48 de ore de la instituirea stării de asediu sau a stării de urgență și funcționează pe toată durata acestora.
+
+##### Articolul 94 — Alte atribuții
+
+Președintele României îndeplinește și următoarele atribuții:
+
+a) conferă decorații și titluri de onoare;
+
+b) acordă gradele de mareșal, de general și de amiral;
+
+c) numește în funcții publice, în condițiile prevăzute de lege;
+
+d) acordă grațierea individuală. ...
+
+##### Articolul 95 — Suspendarea din funcție
+
+(1) În cazul săvîrșirii unor fapte grave prin care încalcă prevederile Constituției, Președintele României poate fi suspendat din funcție de Camera Deputaților și de Senat, în ședință comună, cu votul majorității deputaților și senatorilor, după consultarea Curții Constituționale. Președintele poate da Parlamentului explicații cu privire la faptele ce i se impută.
+
+(2) Propunerea de suspendare din funcție poate fi inițiată de cel puțin o treime din numărul deputaților și senatorilor și se aduce, neîntîrziat, la cunoștință Președintelui.
+
+(3) Dacă propunerea de suspendare din funcție este aprobată, în cel mult 30 de zile se organizează un referendum pentru demiterea Președintelui.
+
+##### Articolul 96 — Vacanța funcției
+
+(1) Vacanța funcției de Președinte al României intervine în caz de demisie, de demitere din funcție, de imposibilitate definitivă a exercitării atribuțiilor sau de deces.
+
+(2) În termen de 3 luni de la data la care a intervenit vacanța funcției de Președinte al României, Guvernul va organiza alegeri pentru un nou Președinte.
+
+##### Articolul 97 — Interimatul funcției
+
+(1) Dacă funcția de Președinte devine vacantă ori dacă Președintele este suspendat din funcție sau dacă se află în imposibilitate temporară de a-și exercita atribuțiile, interimatul se asigură, în ordine, de președintele Senatului sau de președintele Camerei Deputaților.
+
+(2) Atribuțiile prevăzute la articolele 88-90 nu pot fi exercitate pe durata interimatului funcției prezidențiale.
+
+##### Articolul 98 — Răspunderea președintelui interimar
+
+Dacă persoana care asigură interimatul funcției de Președinte al României săvîrșește fapte grave, prin care se încalcă prevederile Constituției, se aplică articolul 95 și articolul 97 .
+
+##### Articolul 99 — Actele Președintelui
+
+(1) În exercitarea atribuțiilor sale, Președintele României emite decrete care se publică în Monitorul Oficial al României. Nepublicarea atrage inexistența decretului.
+
+(2) Decretele emise de Președintele României în exercitarea atribuțiilor sale prevăzute în articolul 91 alineatele (1) și (2) , articolul 92 alineatele (2) și (3) , articolul 93 alineatul (1) și articolul 94 literele a) , b) și d) se contrasemnează de primul-ministru.
+
+##### Articolul 100 — Indemnizația și celelalte drepturi
+
+Indemnizația și celelalte drepturi ale Președintelui României se stabilesc prin lege.
+
+### Capitolul 3 — Guvernul
+
+##### Articolul 101 — Rolul și structura
+
+(1) Guvernul, potrivit programului său de guvernare acceptat de Parlament, asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice.
+
+(2) În îndeplinirea atribuțiilor sale, Guvernul cooperează cu organismele sociale interesate.
+
+(3) Guvernul este alcătuit din prim-ministru, miniștri și alți membri stabiliți prin lege organică.
+
+##### Articolul 102 — Investitura
+
+(1) Președintele României desemnează un candidat pentru funcția de prim-ministru, în urma consultării partidului care are majoritatea absolută în Parlament ori, dacă nu există o asemenea majoritate, a partidelor reprezentate în Parlament.
+
+(2) Candidatul pentru funcția de prim-ministru va cere, în termen de 10 zile de la desemnare, votul de încredere al Parlamentului asupra programului și a întregii liste a Guvernului.
+
+(3) Programul și lista Guvernului se dezbat de Camera Deputaților și de Senat, în ședință comună. Parlamentul acordă încredere Guvernului cu votul majorității deputaților și senatorilor.
+
+##### Articolul 103 — Jurămîntul de credință
+
+(1) Primul-ministru, miniștrii și ceilalți membri ai Guvernului vor depune individual, în fața Președintelui României, jurămîntul de la articolul 82 .
+
+(2) Guvernul în întregul său și fiecare în parte își exercită mandatul, începînd de la data depunerii jurămîntului.
+
+##### Articolul 104 — Incompatibilități
+
+(1) Funcția de membru al Guvernului este incompatibilă cu exercitarea altei funcții publice de autoritate, cu excepția celei de deputat sau de senator. De asemenea, ea este incompatibilă cu exercitarea unei funcții de reprezentare profesională salarizate în cadrul organizațiilor cu scop comercial.
+
+(2) Alte incompatibilități se stabilesc prin lege organică.
+
+##### Articolul 105 — Încetarea funcției de membru al Guvernului
+
+Funcția de membru al Guvernului încetează în urma demisiei, a revocării, a pierderii drepturilor electorale, a stării de incompatibilitate, a decesului, precum și în alte cazuri prevăzute de lege.
+
+##### Articolul 106 — Primul-ministru
+
+(1) Primul-ministru conduce Guvernul și coordonează activitatea membrilor acestuia, respectînd atribuțiile ce le revin. De asemenea, prezintă Camerei Deputaților sau Senatului rapoarte și declarații cu privire la politica Guvernului, care se dezbat cu prioritate.
+
+(2) Dacă primul-ministru se află într-una din situațiile prevăzute la articolul 105 sau este în imposibilitatea de a-și exercita atribuțiile, Președintele României va desemna un alt membru al Guvernului ca prim-ministru interimar, pentru a îndeplini atribuțiile primului-ministru, pînă la formarea noului Guvern. Interimatul, pe perioada imposibilității exercitării atribuțiilor, încetează dacă primul-ministru își reia activitatea în Guvern.
+
+(3) Prevederile alineatului (2) se aplică în mod corespunzător și celorlalți membri ai Guvernului, la propunerea primului-ministru, pentru o perioadă de cel mult 45 de zile.
+
+##### Articolul 107 — Actele Guvernului
+
+(1) Guvernul adoptă hotărîri și ordonanțe.
+
+(2) Hotărîrile se emit pentru organizarea executării legilor.
+
+(3) Ordonanțele se emit în temeiul unei legi speciale de abilitare, în limitele și în condițiile prevăzute de aceasta.
+
+(4) Hotărîrile și ordonanțele adoptate de Guvern se semnează de primul-ministru, se contrasemnează de miniștrii care au obligația punerii lor în executare și se publică în Monitorul Oficial al României. Nepublicarea atrage inexistența hotărîrii sau a ordonanței. Hotărîrile care au caracter militar se comunică numai instituțiilor interesate.
+
+##### Articolul 108 — Răspunderea membrilor Guvernului
+
+(1) Guvernul răspunde politic numai în fața Parlamentului pentru întreaga sa activitate. Fiecare membru al Guvernului răspunde politic solidar cu ceilalți membri pentru activitatea Guvernului și pentru actele acestuia.
+
+(2) Numai Camera Deputaților, Senatul și Președintele României au dreptul să ceară urmărirea penală a membrilor Guvernului pentru faptele săvîrșite în exercițiul funcției lor. Dacă s-a cerut urmărirea penală, Președintele României poate dispune suspendarea acestora din funcție. Trimiterea în judecată a unui membru al Guvernului atrage suspendarea lui din funcție. Competența de judecată aparține Curții Supreme de Justiție.
+
+(3) Cazurile de răspundere și pedepsele aplicabile membrilor Guvernului sînt reglementate printr-o lege privind responsabilitatea ministerială.
+
+##### Articolul 109 — Încetarea mandatului
+
+(1) Guvernul își exercită mandatul pînă la data validării alegerilor parlamentare generale.
+
+(2) Guvernul este demis la data retragerii de Parlament a încrederii acordate sau dacă primul-ministru se află într-una din situațiile prevăzute în articolul 105 ori este în imposibilitatea de a-și exercita atribuțiile mai mult de 45 de zile.
+
+(3) În situațiile prevăzute în alineatul (2) sînt aplicabile prevederile articolului 102 .
+
+(4) Guvernul al cărui mandat a încetat potrivit alineatelor (1) și (2) îndeplinește numai actele necesare pentru administrarea treburilor publice, pînă la depunerea jurămîntului de membrii noului Guvern.
+
+### Capitolul 4 — Raporturile Parlamentului cu Guvernul
+
+##### Articolul 110 — Informarea Parlamentului
+
+(1) Guvernul și celelalte organe ale administrației publice, în cadrul controlului parlamentar al activității lor, sînt obligate să prezinte informațiile și documentele cerute de Camera Deputaților, de Senat sau de comisiile parlamentare, prin intermediul președinților acestora. În cazul în care o inițiativă legislativă implică modificarea prevederilor bugetului de stat sau a bugetului asigurărilor sociale de stat, solicitarea informării este obligatorie.
+
+(2) Membrii Guvernului au acces la lucrările Parlamentului. Dacă li se solicită prezența, participarea lor este obligatorie.
+
+##### Articolul 111 — Întrebări și interpelări
+
+(1) Guvernul și fiecare dintre membrii săi sînt obligați să răspundă la întrebările sau la interpelările formulate de deputați sau de senatori.
+
+(2) Camera Deputaților sau Senatul poate adopta o moțiune prin care să-și exprime poziția cu privire la problema ce a făcut obiectul interpelării.
+
+##### Articolul 112 — Moțiunea de cenzură
+
+(1) Camera Deputaților și Senatul, în ședință comună, pot retrage încrederea acordată Guvernului prin adoptarea unei moțiuni de cenzură, cu votul majorității deputaților și senatorilor.
+
+(2) Moțiunea de cenzură poate fi inițiată de cel puțin o pătrime din numărul total al deputaților și senatorilor și se comunică Guvernului la data depunerii.
+
+(3) Moțiunea de cenzură se dezbate după 3 zile de la data cînd a fost prezentată în ședința comună a celor două Camere.
+
+(4) Dacă moțiunea de cenzura a fost respinsă, deputații și senatorii care au semnat-o nu mai pot iniția, în aceeași sesiune, o nouă moțiune de cenzură, cu excepția cazului în care Guvernul își angajează răspunderea potrivit articolului 113 .
+
+##### Articolul 113 — Angajarea răspunderii Guvernului
+
+(1) Guvernul își poate angaja răspunderea în fața Camerei Deputaților și a Senatului, în ședință comună, asupra unui program, a unei declarații de politică generală sau a unui proiect de lege.
+
+(2) Guvernul este demis dacă o moțiune de cenzură, depusă în termen de 3 zile de la prezentarea programului, a declarației de politică generală sau a proiectului de lege, a fost votată în condițiile articolului 112 .
+
+(3) Dacă Guvernul nu a fost demis potrivit alineatului (2) , proiectul de lege prezentat se consideră adoptat, iar programul sau declarația de politică generală devine obligatorie pentru Guvern.
+
+(4) În cazul în care Președintele României cere reexaminarea legii adoptate potrivit alineatului (3) , dezbaterea acesteia se va face în ședința comună a celor două Camere.
+
+##### Articolul 114 — Delegarea legislativă
+
+(1) Parlamentul poate adopta o lege specială de abilitare a Guvernului pentru a emite ordonanțe în domenii care nu fac obiectul legilor organice.
+
+(2) Legea de abilitare va stabili, în mod obligatoriu, domeniul și data pînă la care se pot emite ordonanțe.
+
+(3) Dacă legea de abilitare o cere, ordonanțele se supun aprobării Parlamentului, potrivit procedurii legislative, pînă la împlinirea termenului de abilitare. Nerespectarea termenului atrage încetarea efectelor ordonanței.
+
+(4) În cazuri excepționale, Guvernul poate adopta ordonanțe de urgență. Acestea intră în vigoare numai după depunerea lor spre aprobare la Parlament. Dacă Parlamentul nu se afla în sesiune, el se convoacă în mod obligatoriu.
+
+(5) Aprobarea sau respingerea ordonanțelor se face printr-o lege în care vor fi cuprinse și ordonanțele ale căror efecte au încetat potrivit alineatului (3) .
+
+### Capitolul 5 — Administrația publică
+
+#### Secţiunea 1 — Administrația publică centrală de specialitate
+
+##### Articolul 115 — Structura
+
+(1) Ministerele se organizează numai în subordinea Guvernului.
+
+(2) Alte organe de specialitate se pot organiza în subordinea Guvernului ori a ministerelor sau ca autorități administrative autonome.
+
+##### Articolul 116 — Înființarea
+
+(1) Ministerele se înființează, se organizează și funcționează potrivit legii.
+
+(2) Guvernul și ministerele, cu avizul Curții de Conturi, pot înființa organe de specialitate, în subordinea lor, numai dacă legea le recunoaște această competență.
+
+(3) Autorități administrative autonome se pot înființa prin lege organică.
+
+##### Articolul 117 — Forțele armate
+
+(1) Armata este subordonată exclusiv voinței poporului pentru garantarea suveranității, a independenței și a unității statului, a integrității teritoriale a țării și a democrației constituționale.
+
+(2) Structura sistemului național de apărare, organizarea armatei, pregătirea populației, a economiei și a teritoriului pentru apărare, precum și statutul cadrelor militare, se stabilesc prin lege organică.
+
+(3) Prevederile alineatului (1 ) și (2) se aplică, în mod corespunzător, poliției și serviciilor de informații ale statului, precum și celorlalte componente ale forțelor armate.
+
+(4) Organizarea de activități militare sau paramilitare în afara unei autorități statale este interzisă.
+
+(5) Pe teritoriul României nu pot intra sau trece trupe străine decît în condițiile stabilite de lege.
+
+##### Articolul 118 — Consiliul Suprem de Apărare a Țării
+
+Consiliul Suprem de Apărare a Țării organizează și coordonează unitar activitățile care privesc apărarea țării și siguranța națională.
+
+#### Secţiunea a 2-a — Administrația publică locală
+
+##### Articolul 119 — Principii de bază
+
+Administrația publică din unitățile administrativ-teritoriale se întemeiază pe principiul autonomiei locale și pe cel al descentralizării serviciilor publice.
+
+##### Articolul 120 — Autorități comunale și orășenești
+
+(1) Autoritățile administrației publice, prin care se realizează autonomia locală în comune și în orașe, sînt consiliile locale alese și primarii aleși, în condițiile legii.
+
+(2) Consiliile locale și primarii funcționează, în condițiile legii, ca autorități administrative autonome și rezolvă treburile publice din comune și din orașe.
+
+(3) Autoritățile prevăzute la alineatul (1 ) se pot constitui și în subdiviziunile administrativ-teritoriale ale municipiilor.
+
+##### Articolul 121 — Consiliul județean
+
+(1) Consiliul județean este autoritatea administrației publice pentru coordonarea activității consiliilor comunale și orășenești, în vederea realizării serviciilor publice de interes județean.
+
+(2) Consiliul județean este ales și funcționează în condițiile legii.
+
+##### Articolul 122 — Prefectul
+
+(1) Guvernul numește cîte un prefect în fiecare județ și în municipiul București.
+
+(2) Prefectul este reprezentantul Guvernului pe plan local și conduce serviciile publice descentralizate ale ministerelor și ale celorlalte organe centrale, din unitățile administrativ-teritoriale.
+
+(3) Atribuțiile prefectului se stabilesc potrivit legii.
+
+(4) Prefectul poate ataca, în fața instanței de contencios administrativ, un act al consiliului județean, al celui local sau al primarului, în cazul în care consideră actul ilegal. Actul este suspendat de drept.
+
+### Capitolul 6 — Autoritatea judecătorească
+
+#### Secţiunea 1 — Instanțele judecătorești
+
+##### Articolul 123 — Înfăptuirea justiției
+
+(1) Justiția se înfăptuiește în numele legii.
+
+(2) Judecătorii sînt independenți și se supun numai legii.
+
+##### Articolul 124 — Statutul judecătorilor
+
+(1) Judecătorii numiți de Președintele României sînt inamovibili, potrivit legii. Președintele și ceilalți judecători ai Curții Supreme de Justiție sînt numiți pe o perioadă de 6 ani. Ei pot fi reînvestiți în funcție. Promovarea, transferarea și sancționarea judecătorilor pot fi dispuse numai de Consiliul Superior al Magistraturii, în condițiile legii.
+
+(2) Funcția de judecător este incompatibilă cu orice altă funcție publică sau privată, cu excepția funcțiilor didactice din învățămîntul superior.
+
+##### Articolul 125 — Instanțele judecătorești
+
+(1) Justiția se realizează prin Curtea Supremă de Justiție și prin celelalte instanțe judecătorești stabilite de lege.
+
+(2) Este interzisă înființarea de instanțe extraordinare.
+
+(3) Competența și procedura de judecată sînt stabilite de lege.
+
+##### Articolul 126 — Caracterul public al dezbaterilor
+
+Ședințele de judecată sînt publice, afară de cazurile prevăzute de lege.
+
+##### Articolul 127 — Dreptul la interpret
+
+(1) Procedura judiciară se desfășoară în limba română.
+
+(2) Cetățenii aparținînd minorităților naționale, precum și persoanele care nu înțeleg sau nu vorbesc limba română au dreptul de a lua cunoștință de toate actele și lucrările dosarului, de a vorbi în instanță și de a pune concluzii, prin interpret; în procesele penale acest drept este asigurat în mod gratuit.
+
+##### Articolul 128 — Folosirea căilor de atac
+
+Împotriva hotărîrilor judecătorești, părțile interesate și Ministerul Public pot exercita căile de atac, în condițiile legii.
+
+##### Articolul 129 — Poliția instanțelor
+
+Instanțele judecătorești dispun de poliția pusă în serviciul lor.
+
+#### Secţiunea a 2-a — Ministerul Public
+
+##### Articolul 130 — Rolul Ministerului Public
+
+(1) În activitatea judiciară, Ministerul Public reprezintă interesele generale ale societății și apără ordinea de drept, precum și drepturile și libertățile cetățenilor.
+
+(2) Ministerul Public își exercită atribuțiile prin procurori constituiți în parchete, în condițiile legii.
+
+##### Articolul 131 — Statutul procurorilor
+
+(1) Procurorii își desfășoară activitatea potrivit principiului legalității, al imparțialității și al controlului ierarhic, sub autoritatea ministrului justiției.
+
+(2) Funcția de procuror este incompatibilă cu orice altă funcție publică sau privată, cu excepția funcțiilor didactice din învățămîntul superior.
+
+#### Secţiunea a 3-a — Consiliul Superior al Magistraturii
+
+##### Articolul 132 — Componența
+
+Consiliul Superior al Magistraturii este alcătuit din magistrați aleși, pentru o durată de 4 ani, de Camera Deputaților și de Senat, în ședință comună.
+
+##### Articolul 133 — Atribuții
+
+(1) Consiliul Superior al Magistraturii propune Președintelui României numirea în funcție a judecătorilor și a procurorilor, cu excepția celor stagiari, în condițiile legii. În acest caz, lucrările sînt prezidate, fără drept de vot, de ministrul justiției.
+
+(2) Consiliul Superior al Magistraturii îndeplinește rolul de consiliu de disciplină al judecătorilor. În acest caz, lucrările sînt prezidate de președintele Curții Supreme de Justiție.
+
+## Titlul 4 — Economia și finanțele publice
+
+##### Articolul 134 — Economia
+
+(1) Economia României este economie de piață.
+
+(2) Statul trebuie să asigure:
+
+a) libertatea comerțului, protecția concurenței loiale, crearea cadrului favorabil pentru valorificarea tuturor factorilor de producție;
+
+b) protejarea intereselor naționale în activitatea economică, financiară și valutară;
+
+c) stimularea cercetării științifice naționale;
+
+d) exploatarea resurselor naturale, în concordanță cu interesul național;
+
+e) refacerea și ocrotirea mediului înconjurător, precum și menținerea echilibrului ecologic;
+
+f) crearea condițiilor necesare pentru creșterea calității vieții. ...
+
+##### Articolul 135 — Proprietatea
+
+(1) Statul ocrotește proprietatea.
+
+(2) Proprietatea este publică sau privată.
+
+(3) Proprietatea publică aparține statului sau unităților administrativ-teritoriale.
+
+(4) Bogățiile de orice natura ale subsolului, căile de comunicație, spațiul aerian, apele cu potențial energetic valorificabil și acelea ce pot fi folosite în interes public, plajele, marea teritorială, resursele naturale ale zonei economice și ale platoului continental, precum și alte bunuri stabilite de lege, fac obiectul exclusiv al proprietății publice.
+
+(5) Bunurile proprietate publică sînt inalienabile. În condițiile legii, ele pot fi date în administrare regiilor autonome ori instituțiilor publice sau pot fi concesionate ori închiriate.
+
+(6) Proprietatea privată este, în condițiile legii, inviolabilă.
+
+##### Articolul 136 — Sistemul financiar
+
+(1) Formarea, administrarea, întrebuințarea și controlul resurselor financiare ale statului, ale unităților administrativ-teritoriale și ale instituțiilor publice sînt reglementate prin lege.
+
+(2) Moneda naționala este leul, iar subdiviziunea acestuia, banul.
+
+##### Articolul 137 — Bugetul public național
+
+(1) Bugetul public național cuprinde bugetul de stat, bugetul asigurărilor sociale de stat și bugetele locale ale comunelor, ale orașelor și ale județelor.
+
+(2) Guvernul elaborează anual proiectul bugetului de stat și pe cel al asigurărilor sociale de stat, pe care le supune, separat, aprobării Parlamentului.
+
+(3) Dacă legea bugetului de stat și legea bugetului asigurărilor sociale de stat nu au fost adoptate cu cel puțin 3 zile înainte de expirarea exercițiului bugetar, se aplică în continuare bugetul de stat și bugetul asigurărilor sociale de stat ale anului precedent, pînă la adoptarea noilor bugete.
+
+(4) Bugetele locale se elaborează, se aprobă și se execută în condițiile legii.
+
+(5) Nici o cheltuială bugetară nu poate fi aprobată fără stabilirea sursei de finanțare.
+
+##### Articolul 138 — Impozite, taxe
+
+(1) Impozitele, taxele și orice alte venituri ale bugetului de stat și ale bugetului asigurărilor sociale de stat se stabilesc numai prin lege.
+
+(2) Impozitele și taxele locale se stabilesc de consiliile locale sau județene, în limitele și în condițiile legii.
+
+##### Articolul 139 — Curtea de Conturi
+
+(1) Curtea de Conturi exercită controlul asupra modului de formare, de administrare și de întrebuințare a resurselor financiare ale statului și ale sectorului public. În condițiile legii, Curtea exercită și atribuții jurisdicționale.
+
+(2) Curtea de Conturi prezintă anual Parlamentului un raport asupra conturilor de gestiune ale bugetului public național din exercițiul bugetar expirat, cuprinzînd și neregulile constatate.
+
+(3) La cererea Camerei Deputaților sau a Senatului, Curtea de Conturi controlează modul de gestionare a resurselor publice și raportează despre cele constatate.
+
+(4) Membrii Curții de Conturi, numiți de Parlament, sînt independenți și inamovibili, potrivit legii. Ei sînt supuși incompatibilităților prevăzute de lege pentru judecători.
+
+## Titlul 5 — Curtea Constituțională
+
+##### Articolul 140 — Structura
+
+(1) Curtea Constituțională se compune din nouă judecători, numiți pentru un mandat de 9 ani, care nu poate fi prelungit sau înnoit.
+
+(2) Trei judecători sînt numiți de Camera Deputaților, trei de Senat și trei de Președintele României.
+
+(3) Judecătorii Curții Constituționale aleg, prin vot secret, președintele acesteia, pentru o perioadă de 3 ani.
+
+(4) Curtea Constituțională se înnoiește cu o treime din judecătorii ei, din 3 în 3 ani, în condițiile prevăzute de legea organică a Curții.
+
+##### Articolul 141 — Condiții pentru numire
+
+Judecătorii Curții Constituționale trebuie să aibă pregătire juridică superioară, înaltă competență profesională și o vechime de cel puțin 18 ani în activitatea juridică sau în învățămîntul juridic superior.
+
+##### Articolul 142 — Incompatibilități
+
+Funcția de judecător al Curții Constituționale este incompatibilă cu oricare altă funcție publică sau privată, cu excepția funcțiilor didactice din învățămîntul superior.
+
+##### Articolul 143 — Independența și inamovibilitatea
+
+Judecătorii Curții Constituționale sînt independenți în exercitarea mandatului lor și inamovibili pe durata acestuia.
+
+##### Articolul 144 — Atribuții
+
+Curtea Constituțională are următoarele atribuții:
+
+a) se pronunța asupra constituționalității legilor, înainte de promulgarea acestora, la sesizarea Președintelui României, a unuia dintre președinții celor două Camere, a Guvernului, a Curții Supreme de Justiție, a unui număr de cel puțin 50 de deputați sau de cel puțin 25 de senatori, precum și, din oficiu, asupra inițiativelor de revizuire a Constituției;
+
+b) se pronunță asupra constituționalității regulamentelor Parlamentului, la sesizarea unuia dintre președinții celor două Camere, a unui grup parlamentar sau a unui număr de cel puțin 50 de deputați sau de cel puțin 25 de senatori;
+
+c) hotărăște asupra excepțiilor ridicate în fața instanțelor judecătorești privind neconstituționalitatea legilor și a ordonanțelor;
+
+d) veghează la respectarea procedurii pentru alegerea Președintelui României și confirmă rezultatele sufragiului;
+
+e) constată existența împrejurărilor care justifică interimatul în exercitarea funcției de Președinte al României și comunică cele constatate Parlamentului și Guvernului;
+
+f) dă aviz consultativ pentru propunerea de suspendare din funcție a Președintelui României;
+
+g) veghează la respectarea procedurii pentru organizarea și desfășurarea referendumului și confirmă rezultatele acestuia;
+
+h) verifică îndeplinirea condițiilor pentru exercitarea inițiativei legislative de către cetățeni;
+
+i) hotărăște asupra contestațiilor care au ca obiect constituționalitatea unui partid politic. ...
+
+##### Articolul 145 — Deciziile Curții Constituționale
+
+(1) În cazurile de neconstituționalitate constatate potrivit articolului 144 literele a) și b) , legea sau regulamentul se transmite spre reexaminare. Dacă legea este adoptată în aceeași formă, cu o majoritate de cel puțin două treimi din numărul membrilor fiecărei Camere, obiecția de neconstituționalitate este înlăturată, iar promulgarea devine obligatorie.
+
+(2) Deciziile Curții Constituționale sînt obligatorii și au putere numai pentru viitor. Ele se publică în Monitorul Oficial al României.
+
+## Titlul 6 — Revizuirea Constituției
+
+##### Articolul 146 — Inițiativa revizuirii
+
+(1) Revizuirea Constituției poate fi inițiată de Președintele României la propunerea Guvernului, de cel puțin o pătrime din numărul deputaților sau al senatorilor, precum și de cel puțin 500.000 de cetățeni cu drept de vot.
+
+(2) Cetățenii care inițiază revizuirea Constituției trebuie să provină din cel puțin jumătate din județele țării, iar în fiecare din aceste județe sau în municipiul București trebuie să fie înregistrate cel puțin 20.000 de semnături în sprijinul acestei inițiative.
+
+##### Articolul 147 — Procedura de revizuire
+
+(1) Proiectul sau propunerea de revizuire trebuie adoptată de Camera Deputaților și de Senat, cu o majoritate de cel puțin două treimi din numărul membrilor fiecărei Camere.
+
+(2) Dacă prin procedura de mediere nu se ajunge la un acord, Camera Deputaților și Senatul, în ședință comună, hotărăsc cu votul a cel puțin trei pătrimi din numărul deputaților și senatorilor.
+
+(3) Revizuirea este definitivă după aprobarea ei prin referendum, organizat în cel mult 30 de zile de la data adoptării proiectului sau a propunerii de revizuire.
+
+##### Articolul 148 — Limitele revizuirii
+
+(1) Dispozițiile prezentei Constituții privind caracterul național, independent, unitar și indivizibil al statului român, forma republicană de guvernămînt, integritatea teritoriului, independența justiției, pluralismul politic și limba oficială nu pot forma obiectul revizuirii.
+
+(2) De asemenea, nici o revizuire nu poate fi făcută dacă are ca rezultat suprimarea drepturilor și a libertăților fundamentale ale cetățenilor sau a garanțiilor acestora.
+
+(3) Constituția nu poate fi revizuită pe durata stării de asediu sau a stării de urgență și nici în timp de război.
+
+## Titlul 7 — Dispoziții finale și tranzitorii
+
+##### Articolul 149 — Intrarea în vigoare
+
+Prezenta Constituție intră în vigoare la data aprobării ei prin referendum. La aceeași dată, Constituția din 21 august 1965 este și rămîne în întregime abrogată.
+
+##### Articolul 150 — Conflictul temporal de legi
+
+(1) Legile și toate celelalte acte normative rămîn în vigoare, în măsura în care ele nu contravin prezentei Constituții.
+
+(2) Consiliul Legislativ, în termen de 12 luni de la data intrării în vigoare a legii sale de organizare, va examina conformitatea legislației cu prezenta Constituție și va face Parlamentului sau, după caz, Guvernului, propuneri corespunzătoare.
+
+##### Articolul 151 — Instituțiile existente
+
+(1) Instituțiile republicii, existente la data intrării în vigoare a prezentei Constituții, rămîn în funcțiune pînă la constituirea celor noi.
+
+(2) Noua Curte Supremă de Justiție va fi numită, în condițiile legii, de Camera Deputaților și de Senat, în ședință comună, la propunerea Președintelui României, în termen de 6 luni de la intrarea în vigoare a prezentei Constituții.
+
+##### Articolul 152 — Instituțiile viitoare
+
+(1) În termen de 6 luni de la data intrării în vigoare a Constituției, se înființează Curtea Constituțională și Curtea de Conturi.
+
+(2) Judecătorii primei Curți Constituționale sînt numiți pentru o perioadă de 3, de 6 și, respectiv, de 9 ani. Președintele României, Camera Deputaților și Senatul desemnează cîte un judecător pentru fiecare perioada.
+
+Constituția României a fost adoptată în ședința Adunării Constituante din 21 noiembrie 1991, prin vot nominal, cu 414 voturi "pentru" și 95 voturi "contra".
+
+PREȘEDINȚII
+
+ADUNĂRII CONSTITUANTE
+
+academician ALEXANDRU BÎRLĂDEANU
+
+MARȚIAN DAN
+
+## ANEXĂ
+
+ADUNAREA CONSTITUANTĂ
+
+PROCES-VERBAL
+
+privind rezultatul votului exprimat de deputați și senatori asupra proiectului de Constituție a României, încheiat astăzi 21 noiembrie 1991
+
+Comitetul Adunării Constituante a procedat la verificarea și numărarea voturilor exprimate de către deputați și senatori, prin apel nominal, asupra proiectului de Constituție a României și a constatat următoarele:
+
+1. Din numărul total de 510 deputați și senatori, ce compun Adunarea Constituantă, au răspuns la apelul nominal 476 parlamentari, din care: - 371 deputați
+
+- 105 senatori.
+
+Un număr de 20 deputați și 13 senatori și-au exprimat votul nominal prin corespondență, potrivit prevederilor art. 1 din Hotărîrea Adunării Constituante nr. 3 din 13 noiembrie 1991 privind unele măsuri în vederea adoptării Constituției României.
+
+Senatorul Karoly Kiraly nu a răspuns la apelul nominal și nici nu și-a exprimat votul prin corespondență, intrînd, astfel, sub incidența dispozițiilor art. 2 din Hotărîrea Adunării Constituante nr. 3 din 13 noiembrie 1991 privind unele măsuri în vederea adoptării Constituției României.
+
+2. Din numărul voturilor exprimate rezultă ca 414 membri ai Adunării Constituante au votat pentru adoptarea Constituției, iar 95 membri ai Adunării Constituante au votat contra adoptării Constituției.
+
+3. Cei 414 deputați și senatori, care au votat pentru adoptarea Constituției, reprezintă mai mult de două treimi din numărul total al membrilor Adunării Constituante.
+
+4. Ca urmare, Comitetul Adunării Constituante constată că sînt întrunite cerințele art. 12 din Hotărîrea Adunării Constituante nr. 1/1990 și, ca atare, declară adoptată Constituția României de către Adunarea Constituantă, în ședința sa din ziua de 21 noiembrie 1991.
+
+COMITETUL ADUNĂRII CONSTITUANTE
+
+DEPUTAȚI SENATORI
+
+Marțian Dan Alexandru Bîrlădeanu
+
+Marian Enache Radu Câmpeanu
+
+Ionel Roman Oliviu Gherman
+
+Mircea Ionescu-Quintus Vasile Moiș
+
+Victor Cevdarie Karoly Kiraly
+
+Neculae Radu Iosif Dan
+
+Cazimir Ionescu Paul Jerbas
+
+Bogdan Pătrașcu Petre Jurcan
+
+Lazar Madaras Attila Verestoy
+
+Prezentul proces-verbal a fost semnat de toți membrii Comitetului Adunării Constituante, cu excepția domnului Karoly Kiraly
+
+\-----

@@ -179,6 +179,17 @@ def codeblock(t):
     return fence + "text\n" + "\n".join(lines) + "\n" + fence
 
 
+NOT_TITLE = re.compile(
+    r"(^(Se|La|În|Prin|Prezenta|Prezentul|Prevederile|Dispozițiile|Dispoziţiile|Articolul|Art\.|Pe|Până|De|Cu)\b)"
+    r"|\b(din|a|al|ale|ai|la|de|cu|prin|în|și|şi|sau|pentru|privind|nr\.|art\.|alin\.|lit\.)$"
+    r"|\b(art|nr|alin|lit)\.")
+
+
+def is_art_title(paras):
+    return (len(paras) > 1 and len(paras[0]) < 120 and not re.search(r"[.;:,]$", paras[0])
+            and not LABEL.match(paras[0].split(" ")[0]) and not paras[0].startswith("("))
+
+
 def render_body(text):
     segs = SEP.split(text)
     head, segs = segs[0], segs[1:]
@@ -189,6 +200,10 @@ def render_body(text):
             present.append(name)
     level_of = {n: min(2 + i, 6) for i, n in enumerate(present)}
     art_level = 2 + len(present)
+    arts = [ART.match(x.strip()) for x in segs]
+    arts = [a for a in arts if a]
+    titled = sum(1 for a in arts if is_art_title(paragraphs(a.group(3))))
+    titled_doc = len(arts) >= 5 and titled >= 0.3 * len(arts)
     out = []
     for seg in segs:
         raw = seg
@@ -215,10 +230,18 @@ def render_body(text):
             label = f"{m.group(1)} {m.group(2)}"
             body = m.group(3)
             paras = paragraphs(body)
-            if (len(paras) > 1 and len(paras[0]) < 120 and not re.search(r"[.;:,]$", paras[0])
-                    and not LABEL.match(paras[0].split(" ")[0]) and not paras[0].startswith("(")):
+            if is_art_title(paras):
                 label += " — " + paras[0]
                 paras = paras[1:]
+            elif titled_doc and paras:
+                # in documents whose articles carry marginal titles, a title followed by a
+                # single-paragraph text is separated by only two spaces
+                mm = re.match(r"^(\S.{2,110}?\S)  (\S.*)$", re.sub(r"[ \t\xa0]{3,}", "   ", body.strip()), re.S)
+                if mm and not re.search(r"[.;:,]$", mm.group(1)) and mm.group(2)[:1].isupper() \
+                        and mm.group(1)[:1].isupper() and "  " not in mm.group(1) \
+                        and re.match(r"\d", m.group(2)) and not NOT_TITLE.search(mm.group(1)):
+                    label += " — " + re.sub(r"\s+", " ", mm.group(1))
+                    paras = paragraphs(mm.group(2))
             if art_level <= 6:
                 out.append("#" * art_level + " " + label)
             else:
@@ -322,37 +345,15 @@ def main():
             continue
         groups[(k, int(num), d.year)].append(r)
 
-    code_keys = {(v[0], v[1], v[2]): slug for slug, v in CODES.items()}
     counts = defaultdict(int)
     written = set()
-    for (k, num, year), rs in sorted(groups.items()):
-        # choose the most recent republication if any, else the original (lowest portal id)
-        rep = [r for r in rs if is_republished(clean_title(r.get("Titlu")))]
-        orig = sorted([r for r in rs if r not in rep], key=lambda r: r["id"])
-        if rep:
-            rep.sort(key=lambda r: (mo_date(r.get("Text") or "")[0] or date(1, 1, 1), r["id"]))
-            chosen, version = rep[-1], "republished"
-        else:
-            chosen, version = orig[0], "original"
-        if len((chosen.get("Text") or "").strip()) < 400 and len(rs) > 1:
-            alt = max(rs, key=lambda r: len(r.get("Text") or ""))
-            chosen = alt
-            version = "republished" if alt in rep else "original"
-        dirname, prefix, fmtype, label = KIND_INFO[k]
-        ident = f"{label} nr. {num}/{year}"
-        extra = {"version": version}
-        if version == "republished":
-            extra["original_portal_id"] = orig[0]["id"] if orig else "null"
-        if (k, num, year) in code_keys:
-            continue  # handled in codes pass
-        if k == "decret-lege":
-            path = os.path.join(repo, dirname, f"{prefix}-{num}-{year}.md")
-        else:
-            path = os.path.join(repo, dirname, str(year), f"{prefix}-{num}-{year}.md")
-        write_doc(path, chosen, fmtype, None, ident, extra)
+    done_codes = set()
+    # original (1991) text of the Constitution; the current 2003 text comes from ro_constitution.py
+    if 1413 in recs and recs[1413].get("Text"):
+        path = os.path.join(repo, "constitutie", "constitutia-romaniei-1991-forma-initiala.md")
+        write_doc(path, recs[1413], "constitution", "Constituția României (1991) — forma inițială",
+                  "Constituția din 21 noiembrie 1991", {"version": "original"})
         written.add(os.path.relpath(path, repo))
-        counts[dirname] += 1
-
     # codes
     for slug, (k, num, year, ctitle, rx) in CODES.items():
         cands = list(groups.get((k, num, year), []))
@@ -373,8 +374,37 @@ def main():
         label = KIND_INFO[k][3]
         path = os.path.join(repo, "coduri", f"{slug}.md")
         write_doc(path, chosen, "code", ctitle, f"{label} nr. {num}/{year}", {"version": version})
+        done_codes.add((k, num, year))
         written.add(os.path.relpath(path, repo))
         counts["coduri"] += 1
+    for (k, num, year), rs in sorted(groups.items()):
+        # choose the most recent republication if any, else the original (lowest portal id)
+        rep = [r for r in rs if is_republished(clean_title(r.get("Titlu")))]
+        orig = sorted([r for r in rs if r not in rep], key=lambda r: r["id"])
+        if rep:
+            rep.sort(key=lambda r: (mo_date(r.get("Text") or "")[0] or date(1, 1, 1), r["id"]))
+            chosen, version = rep[-1], "republished"
+        else:
+            chosen, version = orig[0], "original"
+        if len((chosen.get("Text") or "").strip()) < 400 and len(rs) > 1:
+            alt = max(rs, key=lambda r: len(r.get("Text") or ""))
+            chosen = alt
+            version = "republished" if alt in rep else "original"
+        dirname, prefix, fmtype, label = KIND_INFO[k]
+        ident = f"{label} nr. {num}/{year}"
+        extra = {"version": version}
+        if version == "republished":
+            extra["original_portal_id"] = orig[0]["id"] if orig else "null"
+        if (k, num, year) in done_codes:
+            continue  # handled in codes pass
+        if k == "decret-lege":
+            path = os.path.join(repo, dirname, f"{prefix}-{num}-{year}.md")
+        else:
+            path = os.path.join(repo, dirname, str(year), f"{prefix}-{num}-{year}.md")
+        write_doc(path, chosen, fmtype, None, ident, extra)
+        written.add(os.path.relpath(path, repo))
+        counts[dirname] += 1
+
     print(json.dumps(counts, indent=1))
     with open(os.path.join(RAW, "written.json"), "w") as fh:
         json.dump(sorted(written), fh)
